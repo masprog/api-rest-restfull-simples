@@ -82,4 +82,5 @@ RESTful, é a aplicação dos padrões REST.
 
   ### GET ALL
 
+ ![mostrar todos metodo get](https://user-images.githubusercontent.com/26737849/86379233-83217600-bc82-11ea-8435-06c8cf99259e.png)
   
