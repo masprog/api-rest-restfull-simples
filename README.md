@@ -69,3 +69,17 @@ RESTful, é a aplicação dos padrões REST.
   - 404: Not Found!
 - 5xx: Server Error
   500: Internal Server Error
+  
+  ### FERRAMENTAS E TECNOLOGIAS
+
+- 1: Nodejs
+- 2: Express
+- 3: Yarn
+- 4: Javascript
+- 5: Insomnia
+- 6: Vscode
+
+
+  ### GET ALL
+
+  
