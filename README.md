@@ -90,5 +90,7 @@ RESTful, é a aplicação dos padrões REST.
   
   ### PUT
   
+  ![update](https://user-images.githubusercontent.com/26737849/86379772-270b2180-bc83-11ea-9570-2a9c5bfdef39.png)
+  
   
   
